@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ScalaCompilerConfiguration">
-    <profile name="sbt 1" modules="dbOperation,dbperation,multi-module-assignment1" />
+    <profile name="sbt 1" modules="dbOperation,dbperation,entity,multi-module-assignment1,multi-module-assignment1-dboperation,multi-module-assignment1-useroperation,useroperation" />
   </component>
 </project>

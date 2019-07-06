@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dbOperation.iml" filepath="$PROJECT_DIR$/.idea/modules/dbOperation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/entity.iml" filepath="$PROJECT_DIR$/.idea/modules/entity.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/multi-module-assignment1.iml" filepath="$PROJECT_DIR$/.idea/modules/multi-module-assignment1.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/multi-module-assignment1-build.iml" filepath="$PROJECT_DIR$/.idea/modules/multi-module-assignment1-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/multi-module-assignment1-dboperation.iml" filepath="$PROJECT_DIR$/.idea/modules/multi-module-assignment1-dboperation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/multi-module-assignment1-useroperation.iml" filepath="$PROJECT_DIR$/.idea/modules/multi-module-assignment1-useroperation.iml" />
     </modules>
   </component>
 </project>

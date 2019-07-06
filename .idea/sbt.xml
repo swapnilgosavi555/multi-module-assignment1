@@ -7,8 +7,10 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/dbOperation" />
+            <option value="$PROJECT_DIR$/dboperation" />
+            <option value="$PROJECT_DIR$/entity" />
             <option value="$PROJECT_DIR$/project" />
+            <option value="$PROJECT_DIR$/useroperation" />
           </set>
         </option>
         <option name="sbtVersion" value="1.2.8" />
